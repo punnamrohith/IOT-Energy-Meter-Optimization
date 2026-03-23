@@ -42,5 +42,4 @@ The system continuously monitors electricity usage and sends data to the cloud.
 
 ## 👨‍💻 Author
 - Punnam Rohith##
-- 📄 Project Report
-[Download Full Report](docs/IOT ENERGY METER.pdf)
+📄 [Project Documentation](IOT%20ENERGY%20METER.pdf)
