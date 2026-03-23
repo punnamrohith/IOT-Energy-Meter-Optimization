@@ -41,4 +41,6 @@ The system continuously monitors electricity usage and sends data to the cloud.
 - Smart grid system
 
 ## 👨‍💻 Author
-- Punnam Rohith
+- Punnam Rohith##
+- 📄 Project Report
+[Download Full Report](docs/IoT_Energy_Meter_Report.pdf)
