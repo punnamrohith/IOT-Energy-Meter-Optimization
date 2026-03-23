@@ -8,13 +8,6 @@ The system consists of an ESP32 microcontroller connected to an energy meter, re
 
 Users can monitor real-time energy consumption through a web/mobile interface. When the consumption exceeds the predefined threshold, the buzzer is activated, and a notification is sent. The relay module enables load control by switching appliances ON/OFF remotely.
 
-
-## 🛠️ Technologies Used
-- ESP32 / ESP8266
-- Embedded C / Arduino IDE
-- IoT Cloud (ThingSpeak / Blynk)
-- Sensors (Voltage & Current)
-
 ## ⚡ Working Principle
 The system continuously measures voltage and current using the energy meter. The ESP32 calculates power consumption and displays it on the LCD.
 
